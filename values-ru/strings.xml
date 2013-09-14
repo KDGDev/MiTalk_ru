@@ -767,7 +767,7 @@ Please remember that you can only log in and restore password AFTER you confirm 
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_muc_add_info_input_des_0">Write something to the group creator</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="create_muc_add_info_title">Group Profile</string>
+     <string name="create_muc_add_info_title">Профиль группы</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_muc_add_info_tuijian">Select a type</string>
      <string name="create_muc_chose_classmate_tips">只推荐给同学</string>
@@ -782,7 +782,7 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="create_muc_chose_public_type_title">本群推荐给谁</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_muc_chose_school">Select a school</string>
-     <string name="create_muc_chose_type_title">你要创建什么群？</string>
+     <string name="create_muc_chose_type_title">Какую группу создать？</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_muc_company_group">Create group for workplace</string>
      <string name="create_muc_default_name">%s…的群</string>
@@ -805,7 +805,7 @@ Please remember that you can only log in and restore password AFTER you confirm 
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_muc_group_type_public">Public</string>
      <string name="create_muc_groupname_tips">群名称(20个字符)</string>
-     <string name="create_muc_input_info_tips">创建公开群需要消耗50米点</string>
+     <string name="create_muc_input_info_tips">В публичной группе должно быть не более 50 человек</string>
      <string name="create_muc_midian_tips">"It costs %1$s credits to create a group.
 You currently have %2$s credit(s)."</string>
      <string name="create_muc_name_content_illegal">包含非法字符</string>
@@ -815,8 +815,8 @@ You currently have %2$s credit(s)."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_muc_verify_email_company_tips">You can request for a privacy protect for your group after your company email is verified.</string>
      <string name="create_personal_message">Создать</string>
-     <string name="create_private_group">创建私密群</string>
-     <string name="create_public_group">创建公开群</string>
+     <string name="create_private_group">Закрытая группа</string>
+     <string name="create_public_group">Публичная группа</string>
      <string name="create_right_now">Создать</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_shortcut">Creat desktop shortcut</string>
@@ -1326,10 +1326,10 @@ You currently have %2$s credit(s)."</string>
      <string name="group_list_create">New group contact</string>
      <string name="group_list_find_group">Обзор групп</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="group_list_group">Groups</string>
-     <string name="group_list_group_num">Total of %s group contact(s) and temp. group chat(s)</string>
+     <string name="group_list_group">Группы</string>
+     <string name="group_list_group_num">Всего групп: %s и врем. групповой чат(ы)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="group_list_title">Group Contacts</string>
+     <string name="group_list_title">Группы контактов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_list_tmp_chat">Temp. Group Chats</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1646,7 +1646,7 @@ You currently have %2$s credit(s)."</string>
      <string name="input_email_name">username</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="input_group_name">Name your group</string>
-     <string name="input_muc_question_tips">请输入入群问题(选填)</string>
+     <string name="input_muc_question_tips">Введите вопрос для группы (опционально)</string>
      <string name="input_new_password">New password (at least 8 char.)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="input_new_pwd">New password</string>
@@ -1727,7 +1727,7 @@ You currently have %2$s credit(s)."</string>
      <string name="is_typing">Пишет...</string>
      <string name="is_upgrading">正在更新</string>
      <string name="jie">Класс</string>
-     <string name="join_muc_need_check">管理员审核</string>
+     <string name="join_muc_need_check">Аудит администратора</string>
      <string name="join_muc_title">入群申请</string>
      <string name="just_talk">Чат</string>
      <string name="keep_on_import_contacts">Done! You can send invitations now.</string>
@@ -1763,7 +1763,7 @@ You currently have %2$s credit(s)."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="like_list_title">Like</string>
      <string name="like_message">[laugh]your friend also like you.</string>
-     <string name="limit_characters">%s Char.</string>
+     <string name="limit_characters">%s знаков.</string>
      <string name="limit_to">(не более 20 людей)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="list_is_empty">List is empty.</string>
@@ -1956,7 +1956,7 @@ You currently have %2$s credit(s)."</string>
      <string name="miba_download_tips">玩语音社区就来米吧，赶快前往下载吧！</string>
      <string name="micloud_title">Загрузка...</string>
      <string name="mid_school">Средняя школа</string>
-     <string name="midian_of_one_group">消耗米点：%d</string>
+     <string name="midian_of_one_group">Максимально людей: %d</string>
      <string name="miid_unbinded">Missing phone number/email.</string>
      <string name="mili_counts">米点：</string>
      <string name="mili_lottery">幸运抽奖</string>
