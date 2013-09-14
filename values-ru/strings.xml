@@ -147,44 +147,36 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="app_force_upgrade">Пожалуйста, обновите версию MiTalk для этой функции</string>
      <string name="app_installing">Установка...</string>
      <string name="app_name">MiTalk</string>
+     <!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_need_sdcard_to_add">SD card is unavailable. You need a valid SD card to install MiWorld plug-ins.</string>
+     <!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_need_sdcard_to_install">SD card is unavailable. You need a valid SD card to add MiWorld plug-ins.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_need_sdcard_to_remove">SD card is unavailable. We need a valid SD card to uninstall.</string>
+     <!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_need_sdcard_to_use">SD card is unavailable. You need a valid SD card to run MiWorld plug-ins.</string>
+     <!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_need_to_install">"You haven't install “%s, you may find it from plug-in center under Me tab."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_paused">Paused</string>
-     <string name="app_shortcut_created">Shortcut created!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_shortcut_error">Failed to add a shortcut, please try again later.</string>
-     <string name="app_size">Size:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_uninstalling_please_wait">Uninstalling...</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_unziping">Finishing...</string>
+     <string name="app_paused">Приостановлено</string>
+     <string name="app_shortcut_created">Ярлык создан!</string>
+     <string name="app_shortcut_error">Не удалось создать ярлык, повторите попытку позже</string>
+     <string name="app_size">Размер:</string>
+     <string name="app_uninstalling_please_wait">Удаление...</string>
+     <string name="app_unziping">Завершение...</string>
      <string name="app_update">Обновление</string>
-     <string name="app_upgradeDetail">A new version of MiTalk is available, do you want to update now?</string>
-     <string name="app_upgradeDownloading">Updating…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_upgradeFailed">Unable to update, please try again later.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_upgradeNo">Remind me later</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_upgradeTitle">Application Update</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_upgradeYes">Yes</string>
+     <string name="app_upgradeDetail">Новая версия MiTalk доступна, вы хотите обновить сейчас?</string>
+     <string name="app_upgradeDownloading">Обновление…</string>
+     <string name="app_upgradeFailed">Не удается обновить, повторите попытку позже</string>
+     <string name="app_upgradeNo">Напомнить позже</string>
+     <string name="app_upgradeTitle">Обновление программы</string>
+     <string name="app_upgradeYes">Да</string>
      <string name="app_upgrade_additional_size">[Обновление] Размер: %.2f Мб</string>
      <string name="app_xiezai">Удалить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="applicationId">222161937813280</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="apply_join">wants to join</string>
-     <string name="apply_join_tips">申请加入群</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="apply_reason">Request</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="apply_reason_key">Send with a message</string>
+     <string name="apply_join">хочет присоединиться</string>
+     <string name="apply_join_tips">Заявка на вступление в группу</string>
+     <string name="apply_reason">Запрос</string>
+     <string name="apply_reason_key">Отправить с сообщением</string>
      <string name="apply_theme">Применить</string>
      <string name="archive_management_title">不常看对话</string>
      <string name="archive_robot_displayname">不常看对话</string>
