@@ -9,20 +9,20 @@
         <item>Не напоминать</item>
      </string-array>
      <string-array name="chose_chunjie">
-        <item>春节2</item>
-        <item>春节3</item>
-        <item>春节4</item>
+        <item>2-й год</item>
+        <item>3-й год</item>
+        <item>4-й год</item>
      </string-array>
      <string-array name="chose_festival">
-        <item>春节</item>
-        <item>情人节</item>
-        <item>元宵节</item>
+        <item>Китайский Новый год</item>
+        <item>День святого Валентина</item>
+        <item>Фестиваль Фонарей</item>
      </string-array>
      <string-array name="chose_group_kind_content">
-        <item>This group will be recommended to your colleagues.</item>
-        <item>This group will be recommended to your schoolmates.</item>
-        <item>This group will be recommended to people have same interest.</item>
-        <item>We will not recommend this group to anyone.</item>
+        <item>Эта группа рекомендована для ваших коллег.</item>
+        <item>Эта группа рекомендована для одноклассников.</item>
+        <item>Эта группа рекомендована для людей с одинаковыми интересами.</item>
+        <item>Мы не рекомендуем эту группу всем.</item>
      </string-array>
      <string-array name="chose_group_kind_title">
         <item>Работа</item>
