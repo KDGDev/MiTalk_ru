@@ -2102,7 +2102,7 @@ You currently have %2$s credit(s)."</string>
      <string name="muc_compose_jump_tips">Определение местоположения...</string>
      <string name="muc_compose_jump_to_unread">Показать новые</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="muc_compose_last_read">Last read</string>
+     <string name="muc_compose_last_read">Последние прочитанные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="muc_compose_modify_broadcast">Edit Info. Board</string>
      <string name="muc_compose_notify_setting">Уведомления</string>
