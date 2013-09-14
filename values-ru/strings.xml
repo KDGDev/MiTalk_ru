@@ -115,6 +115,10 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="add_friend_send_request_successful">Запрос успешно отправлен</string>
      <string name="add_friend_sending_verification">Отправка запроса…</string>
      <string name="add_friend_succeeded">Поздравляем, вы стали друзьями на MiTalk!</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: 希望添加%s为好友 -->
      <string name="add_friend_title">ОТправить сообщение</string>
      <string name="add_friend_too_many">К сожалению, вы достигли макс. количества друзей.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -846,6 +850,7 @@ You currently have %2$s credit(s)."</string>
      <string name="debug">Отладка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_select_title">Pleas select</string>
+     <string name="del_conversation_history">删除对话记录</string>
      <string name="delete">Удалить</string>
      <string name="delete_and_unbind">Удалить</string>
      <string name="delete_binded">Отмена</string>
@@ -1325,10 +1330,8 @@ You currently have %2$s credit(s)."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_list_create">New group contact</string>
      <string name="group_list_find_group">Обзор групп</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_list_group">Группы</string>
      <string name="group_list_group_num">Всего групп: %s и врем. групповой чат(ы)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_list_title">Группы контактов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_list_tmp_chat">Temp. Group Chats</string>
@@ -1517,10 +1520,18 @@ You currently have %2$s credit(s)."</string>
      <string name="group_voip_unmute">Динамик</string>
      <string name="guide_add_btn">Добавить(%d)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: hi，我是你的同学%s，加我为好友吧 -->
      <string name="guide_add_classmates_verify">Hi, we went to the same school.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="guide_add_friend">Add contacts</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: hi，我是你的同事%s，加我为好友吧 -->
      <string name="guide_add_worker_verify">Hi, I am a colleague of yours. I would like to connect with you on MiTalk.</string>
      <string name="guide_complete_btn">Выполнено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1715,6 +1726,10 @@ You currently have %2$s credit(s)."</string>
      <string name="invite_more_friends_by_free_sms">Send free SMS messages to invite friends!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="invite_msn_contacts">MSN Friends</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 3
+	%s: 2 must: 3
+	%d: 0 must: 0 -->
+     <!-- Original string: 我最近在用米聊发语音、视频聊天，推荐你试试：%1$s 我在米聊叫%2$s,米聊号是%3$s。 -->
      <string name="invite_other_message">Figure that I would rather MiCall you for free!Download MiTalk via %1$s and add me! My MiID is %2$s.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="invite_renren_contacts">Renren Friends</string>
@@ -2168,6 +2183,10 @@ You currently have %2$s credit(s)."</string>
      <string name="muc_invite_sms">"Hey, join me in “%1$s(%2$s)” group! If you don't have MiTalk app, you should get one. http://www.mitalk.com"</string>
      <string name="muc_invite_success">Successfully invited!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 2
+	%s: 0 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s%2$s成为群成员 -->
      <string name="muc_invite_tips">Add contacts to group</string>
      <string name="muc_join_people">%1$s joined group</string>
      <string name="muc_join_people_tips">加入群</string>
@@ -2264,7 +2283,15 @@ You currently have %2$s credit(s)."</string>
      <string name="muc_recommend_setting">Group Recommendation</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="muc_recommend_title">Recomment</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: 解除 %1$s 等%2$s人的管理员权限 -->
      <string name="muc_remove_admin_confirm">Downgrade %s manager</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: 从本群中删除 %1$s 等%2$s人 -->
      <string name="muc_remove_member_confirm">Remove %s from this group</string>
      <string name="muc_remove_one_member_confirm">从本群中删除 %1$s ?</string>
      <string name="muc_remove_people">%1$s removed %2$s from this group</string>
@@ -2413,6 +2440,7 @@ Please following the instructions from the email to complete verification proces
      <string name="namecard_age_template">Возраст: %s</string>
      <string name="namecard_begin_chat">Поболтать</string>
      <string name="namecard_bio">Информация</string>
+     <string name="namecard_birthday">生日：</string>
      <string name="namecard_bottom_btn_add">Добавить</string>
      <string name="namecard_bottom_btn_chat">Чат</string>
      <string name="namecard_bottom_btn_confirm">Подтвердить</string>
@@ -2724,6 +2752,10 @@ Tap arrow to switch between video and audio message mode."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_center_batch_handle_no_fq">Show all friend requests</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 0
+	%d: 0 must: 1 -->
+     <!-- Original string: 批量处理（%d） -->
      <string name="notification_center_batch_handle_title">Batch process</string>
      <string name="notification_center_batch_ignore_tip">Отклонено запросов: %d</string>
      <string name="notification_center_big_group_name_and_id">%1$s (%2$s)</string>
@@ -3292,6 +3324,10 @@ Tap arrow to switch between video and audio message mode."</string>
      <string name="relational_friend_number_header_cor">You have %1$s colleague(s) on MiTalk.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="relational_friend_number_header_rr">Renren friends on MiTalk</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: 您有%1$s位同学在米聊，加为好友吧！ -->
      <string name="relational_friend_number_header_school">You have 1$s schoolmate(s) on MiTalk.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="relational_friend_number_header_sina">Sina friends on MiTalk</string>
@@ -3522,6 +3558,10 @@ Tap arrow to switch between video and audio message mode."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sdcard_clean_is_running_toast_tip">In process, you can see progress in notification bar.</string>
      <string name="sdcard_clean_progress">Clearing %1$d files with a total of %2$s</string>
+     <!-- The count of MNPS does not match! Now: 3 must: 2
+	%s: 2 must: 1
+	%d: 1 must: 1 -->
+     <!-- Original string: 成功清理%1$d个文件，释放%2$s空间。 -->
      <string name="sdcard_clean_result">Cleared %1$d files with a total of %2$s within %3$s</string>
      <string name="sdcard_is_absent">SD卡不存在</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -3735,6 +3775,10 @@ Your current MiTalk version does't support full namecard display."</string>
      <string name="shake_to_all_friends">Shake hands requests have been sent to all!</string>
      <string name="shake_to_friend">Shake hands request has been sent!</string>
      <string name="share">Поделиться</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 2
+	%s: 0 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: 大家以后找我，就用手机#米聊#我吧！我的米聊号：%1$s，点链接加我为好友：%2$s -->
      <string name="share_body">MiTalk is the best communication app ever! Its so fast! Get one and add me so we can message and talk at anytime and anywhere for free!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_file_to_friends">Share with friends</string>
@@ -3864,6 +3908,10 @@ Your current MiTalk version does't support full namecard display."</string>
      <string name="sixth_prize">六等奖</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="skip">Skip</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: [动态表情:%s] -->
      <string name="smiley_animemoji_des_formatter">[стикер]</string>
      <string name="smiley_animemoji_download_failed">Ошибка загрузки.</string>
      <string name="smiley_animemoji_downloading">Загрузка Mi-эмоций…</string>
@@ -3921,6 +3969,10 @@ Your current MiTalk version does't support full namecard display."</string>
      <string name="sns_bind_successful">Вы успешно вошли!</string>
      <string name="sns_binded">Вы авторизированы</string>
      <string name="sns_binding">Вход в систему…</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: 绑定%s -->
      <string name="sns_click_to_bind">Нажмите, чтобы войти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sns_click_to_bind_sina_weibo">Log in on Sina Weibo</string>
@@ -3948,6 +4000,10 @@ Your current MiTalk version does't support full namecard display."</string>
      <string name="sns_invite_confirm">Would you like to send a private message to invite?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sns_invite_friends">Invite</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 2
+	%s: 0 must: 0
+	%d: 0 must: 2 -->
+     <!-- Original string: 正在发送好友请求，成功：%1$d，失败：%2$d。 -->
      <string name="sns_invite_friends_progress">Отправка запроса другу…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sns_invite_sina_weibo_contacts">Invite Sina Weibo Friends</string>
@@ -4047,6 +4103,10 @@ TA们说，以后拍照不用念“茄子”，掏出手机看我一眼笑容更
      <string name="subscribe_unsub_ask">Отписаться от: %s?</string>
      <string name="subscribe_unsub_failed">Подписаться не удалось. Пожалуйста, проверьте сетевое подключение.</string>
      <string name="subscribe_unsub_succ">Подписка закончилась!</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: 正在取消订阅 %s… -->
      <string name="subscribe_unsubing">Обработка…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="subscribe_web_view_font_big_btn">Large</string>
@@ -4115,6 +4175,10 @@ TA们说，以后拍照不用念“茄子”，掏出手机看我一眼笑容更
      <string name="thread_message_type_video">(Видео)</string>
      <string name="thread_tips_location">[местоположение]</string>
      <string name="thread_tips_remind">[Напоминание]</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 0 must: 0
+	%d: 0 must: 1 -->
+     <!-- Original string: 还剩余%d秒 -->
      <string name="time_is_up">% d second(s) left</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_invite_classmate">Invite schoolmates</string>
