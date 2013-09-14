@@ -1,51 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="EM">email</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="FB">Facebook</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="GM">Gmail</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="KX">Kaixin</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="MSN">MSN</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="PH">phone book</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="QQ">QQ</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="RR">RenRen</string>
-     <string name="SDcard_tip_is_full">На SD-карте недостаточно места для некоторых возможностей MiTalk.</string>
-     <string name="SDcard_tip_is_full_when_capture_image">Освободите место на карте памяти для отправки.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="SDcard_tip_is_full_when_download_smiley">Please leave enough space for more emoticons in SD Card.</string>
-     <string name="SDcard_tip_is_full_when_gif">Освободите достаточно места на SD-карте для отправки файла GIF.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="SDcard_tip_is_full_when_in_topic">Please clean up your SD card to leave room for picture upload.</string>
-     <string name="SDcard_tip_is_full_when_in_wall">Пожалуйста, освободите место на SD-карте.</string>
-     <string name="SDcard_tip_is_full_when_namecard">Пожалуйста, освободите место на SD-карте.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="SDcard_tip_is_full_when_take_photo">Please leave enough space in SD card for picture sending.</string>
+     <string name="SDcard_tip_is_full">На SD-карте недостаточно места для некоторых возможностей MiTalk</string>
+     <string name="SDcard_tip_is_full_when_capture_image">Освободите место на карте памяти для отправки</string>
+     <string name="SDcard_tip_is_full_when_download_smiley">Пожалуйста, освободите достаточно места на SD-карте для смайликов</string>
+     <string name="SDcard_tip_is_full_when_gif">Освободите достаточно места на SD-карте для отправки файла GIF</string>
+     <string name="SDcard_tip_is_full_when_in_topic">Пожалуйста, освободите место на SD-карте</string>
+     <string name="SDcard_tip_is_full_when_in_wall">Пожалуйста, освободите место на SD-карте</string>
+     <string name="SDcard_tip_is_full_when_namecard">Пожалуйста, освободите место на SD-карте</string>
+     <string name="SDcard_tip_is_full_when_take_photo">Пожалуйста, освободите место на SD-карте</string>
      <string name="SDcard_tip_is_full_when_voice">Пожалуйста, освободите место на SD-карте для отправки и приема голосовых сообщений.</string>
      <string name="SDcard_tip_when_choose_pic">Отсутствует карта памяти.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="SDcard_tip_when_click_face">You need sd card with enough room to save more emoticons.</string>
-     <string name="SDcard_tip_when_running">SD карта отсутствует, вы не сможете использовать некоторые функции MiTalk.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="SDcard_tip_when_send_handwriting">You need sd card to send or save doodle or handwrite creations.</string>
-     <string name="SDcard_tip_when_send_photo">Для отправки изобажения необходима карта памяти.</string>
-     <string name="SDcard_tip_when_send_video">您需要安装存储卡才能发送视频</string>
-     <string name="SDcard_tip_when_send_voice">Для отправки голосового сообщения, требуется карта памяти.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="SDcard_tip_when_set_bkg">Sorry, you need an sd card to personalize background.</string>
-     <string name="SDcard_tip_when_show_broadcast">You need sd card to save multi-media files.</string>
-     <string name="SDcard_tip_when_show_card">Для сохранения изображений требуется SD-карта.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="SDcard_tip_when_start">We cannot find your sd card, you may not able to use some features from MiTalk.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="SDcard_tip_when_take_gif">You need sd card to creat or save gif file.</string>
+     <string name="SDcard_tip_when_click_face">Вам нужна SD-карта для сохранения большого количества смайлов</string>
+     <string name="SDcard_tip_when_running">SD-карта отсутствует, вы не сможете использовать некоторые функции MiTalk.</string>
+     <string name="SDcard_tip_when_send_handwriting">Вам нужна SD-карты для отправки или сохранения рисунков или набросков</string>
+     <string name="SDcard_tip_when_send_photo">Для отправки изображения необходима SD-карта</string>
+     <string name="SDcard_tip_when_send_video">Для отправки видео необходима SD-карта</string>
+     <string name="SDcard_tip_when_send_voice">Для отправки голосового сообщения необходима SD-карта</string>
+     <string name="SDcard_tip_when_set_bkg">К сожалению, вам нужна SD-карта, чтобы персонализировать фон переписок</string>
+     <string name="SDcard_tip_when_show_broadcast">Вам нужна SD-карта для хранения мультимедийных файлов</string>
+     <string name="SDcard_tip_when_show_card">Для сохранения изображений требуется SD-карта</string>
+     <string name="SDcard_tip_when_start">Мы не можем найти SD-карту для некоторых возможностей MiTalk</string>
+     <string name="SDcard_tip_when_take_gif">Вам нужна SD-карта для сохранения или создания GIF-файла</string>
      <string name="SDcard_tip_when_upgrade">Для обновления необходима SD-карта</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="SINA">Sina Weibo</string>
@@ -786,10 +770,10 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="create_muc_chose_public_type_title">本群推荐给谁</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_muc_chose_school">Select a school</string>
-     <string name="create_muc_chose_type_title">Какую группу создать？</string>
+     <string name="create_muc_chose_type_title">Выбор группы</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_muc_company_group">Create group for workplace</string>
-     <string name="create_muc_default_name">%s…的群</string>
+     <string name="create_muc_default_name">Группа %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_muc_failed">Failed to create, please try again.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1292,7 +1276,7 @@ You currently have %2$s credit(s)."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_chat_empty">No groups found.</string>
      <string name="group_chat_full">Все</string>
-     <string name="group_chat_member">member(s)</string>
+     <string name="group_chat_member">человек(а)</string>
      <string name="group_chose_to_send">选择节日祝福</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="group_create_error_no_friend_support">To join a group chat, please update existing MiTalk version on your device.</string>
