@@ -31,71 +31,52 @@
      <string name="SDcard_tip_when_start">Мы не можем найти SD-карту для некоторых возможностей MiTalk</string>
      <string name="SDcard_tip_when_take_gif">Вам нужна SD-карта для сохранения или создания GIF-файла</string>
      <string name="SDcard_tip_when_upgrade">Для обновления необходима SD-карта</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="SINA">Sina Weibo</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="TT">Twitter</string>
      <string name="about">О программе</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="about_copyright">www.mitalk.com All Rights Reserved 2013</string>
-     <string name="about_message1">Version %1$s%2$s</string>
-     <string name="about_message2">Copyright ©2013 www.mitalk.com</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="about_message3">All Rights Reserved</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="about_network">Network Diagnose</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="about_new">New Version Guide</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="about_privacy">Privacy Policy</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="about_protocol">User Statement</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="about_web">Official Site</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="about_copyright">Copyright ©2013 MiTalk. Все права защищены</string>
+     <string name="about_message1">Версия %1$s%2$s</string>
+     <string name="about_message2">Copyright ©2013 MiTalk</string>
+     <string name="about_message3">Все права защищены</string>
+     <string name="about_network">Диагностика сети</string>
+     <string name="about_new">О новой версии</string>
+     <string name="about_privacy">Политика конфиденциальности</string>
+     <string name="about_protocol">Лицензии</string>
+     <string name="about_web">Официальный сайт</string>
      <string name="about_www">www.mitalk.com</string>
      <string name="accept">Принять</string>
-     <string name="accept_multiple_friend_succeeded">"You've added %d friend request(s)."</string>
+     <string name="accept_multiple_friend_succeeded">Вы добавили %d друзей</string>
      <string name="accepted">принять</string>
      <string name="access_error">Не удалось обработать, проверьте подключение к сети и попробуйте еще раз.</string>
      <string name="account">Аккаунт:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accpet_friend_failed">Failed to send request, please check your network and try again later.</string>
+     <string name="accpet_friend_failed">Не удалось отправить запрос, пожалуйста, проверьте сеть и повторите попытку позже</string>
      <string name="accpet_friend_succeeded">Принять предложение дружбы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_find_city_auto">Locate me</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_find_city_locate_failed">Failed to locate.</string>
+     <string name="act_find_city_auto">Найти меня</string>
+     <string name="act_find_city_locate_failed">Не удалось найти</string>
      <string name="act_find_city_locating">Поиск местоположения…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_find_city_manually">Choose a city</string>
-     <string name="act_find_city_null_data">Невозможно определить местоположение.</string>
+     <string name="act_find_city_manually">Выберите город</string>
+     <string name="act_find_city_null_data">Невозможно определить местоположение</string>
+     <!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activiate_email_sent">"Please DO LOOK FOR a confirmation email we've just sent you. 
 
 Please remember that you can only log in and restore password AFTER you confirm your email info."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_a_pic">Add a photo</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_avatar">Add profile pics</string>
+     <string name="add_a_pic">Добавить фото</string>
+     <string name="add_avatar">Добавить фото профиля</string>
      <string name="add_contacts">Добавить контакт</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_desc">Add description</string>
-     <string name="add_desc_optional">Add description (optional)</string>
+     <string name="add_desc">Добавить описание</string>
+     <string name="add_desc_optional">Добавить описание (опционально)</string>
      <string name="add_email_succeeded">Обновлено! Вы получите уведомление на электронную почту в ближайшее время.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_friend">Add friend</string>
-     <string name="add_friend_confirm">Are you sure to be friend with %s？</string>
+     <string name="add_friend">Добавить в друзья</string>
+     <string name="add_friend_confirm">Вы уверены, что хотите дружить с %s？</string>
      <string name="add_friend_denied">Ошибка добавления. Этот пользователь не хочет, чтобы вы его добавили.</string>
-     <string name="add_friend_hint">Type a message (Optional)</string>
+     <string name="add_friend_hint">Введите сообщение (необязательно)</string>
      <string name="add_friend_in_bubble">Добавить</string>
      <string name="add_friend_ps_lbs">Вы находитесь неподалеку</string>
-     <string name="add_friend_ps_mc">We are colleagues at %s.</string>
-     <string name="add_friend_ps_mf">We have %d mutual friends.</string>
-     <string name="add_friend_ps_ms">We are schoolmates at %s.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_friend_ps_rr">Renren friends</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_friend_ps_wb">Sina Weibo friends</string>
+     <string name="add_friend_ps_mc">Мы коллеги %s.</string>
+     <string name="add_friend_ps_mf">У нас есть %d общих друзей.</string>
+     <string name="add_friend_ps_ms">Мы одноклассники %s.</string>
+     <string name="add_friend_ps_rr">Друзья Renren</string>
+     <string name="add_friend_ps_wb">Друзья Sina Weibo</string>
      <string name="add_friend_send_request_successful">Запрос успешно отправлен</string>
      <string name="add_friend_sending_verification">Отправка запроса…</string>
      <string name="add_friend_succeeded">Поздравляем, вы стали друзьями на MiTalk!</string>
@@ -128,7 +109,7 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="address_book_my_friends">Мои контакты</string>
      <string name="address_with_distance">%1$dm %2$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="age">age</string>
+     <string name="age">" лет"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="agree_contact_licence">Match with phone book contacts</string>
      <string name="agree_private_licence">"I have read and agreed 
@@ -2447,11 +2428,10 @@ Please following the instructions from the email to complete verification proces
      <string name="namecard_change_vocational_school">Средняя школа</string>
      <string name="namecard_chat">Чат</string>
      <string name="namecard_child">Несовершеннолетний</string>
-     <string name="namecard_click_to_add_comment">Изменить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="namecard_click_to_view">view wall</string>
+     <string name="namecard_click_to_add_comment">Изменить</string>а
+     <string name="namecard_click_to_view">посмотреть стену</string>
      <string name="namecard_company">Компания:</string>
-     <string name="namecard_completeness">Завершено</string>
+     <string name="namecard_completeness">"Завершено "</string>
      <string name="namecard_completeness_info">Подробнее, больше друзей!</string>
      <string name="namecard_confirm_before_back">Выйти из режима редактирования?</string>
      <string name="namecard_confirm_before_delete_avatar">Удалить выбранное изображение?</string>
@@ -2620,7 +2600,7 @@ Please following the instructions from the email to complete verification proces
      <string name="new_namecard_add_location">Добавить местоположение</string>
      <string name="new_namecard_add_mood">Изменить статус</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="new_namecard_add_more_company">Add company</string>
+     <string name="new_namecard_add_more_company">Добавить компанию</string>
      <string name="new_namecard_add_more_email">Добавить почту</string>
      <string name="new_namecard_add_more_phone">Добавить номер</string>
      <string name="new_namecard_add_more_school">Добавить школу</string>
@@ -3796,7 +3776,7 @@ Your current MiTalk version does't support full namecard display."</string>
      <string name="sharing_my_card">Отправка…</string>
      <string name="show">Показать</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="show_birth">Disply age</string>
+     <string name="show_birth">Показать день рождения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="show_image_not_support_tips">Sorry, we currently do not support this type of picture.</string>
      <string name="show_more_contacts">Показать еще…</string>
