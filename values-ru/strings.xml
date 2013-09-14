@@ -80,60 +80,42 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="add_friend_send_request_successful">Запрос успешно отправлен</string>
      <string name="add_friend_sending_verification">Отправка запроса…</string>
      <string name="add_friend_succeeded">Поздравляем, вы стали друзьями на MiTalk!</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: 希望添加%s为好友 -->
      <string name="add_friend_title">Отправить сообщение: %s</string>
      <string name="add_friend_too_many">К сожалению, вы достигли макс. количества друзей.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_group_description">Edit About</string>
+     <string name="add_group_description">Изменить</string>
      <string name="add_miliao_friend">Добавить в друзья</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_new_company">Add company</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_new_school">Add school</string>
+     <string name="add_new_company">Добавить компанию</string>
+     <string name="add_new_school">Добавить школу</string>
      <string name="add_phone_failed">Не удалось добавить</string>
      <string name="add_phone_succeeded">Обновлено! Вы получите уведомление.</string>
-     <string name="add_shortcut_dialog_msg">Add %1$s to launcher</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_sns_friend_failed">Failed to update, please check your network and try again later.</string>
-     <string name="add_sns_friend_partial_succeeded">Connected with %1$d friend(s), but failed to connect with %2$d, please check your network connection and try again.</string>
-     <string name="add_sns_friend_succeeded">Congrats! You are connected with %d more!</string>
-     <string name="added_by_me_contacts">invited %d</string>
-     <string name="added_me_contacts">%d want to add me</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="additional_upgrade_failed">Failed to update, please tap to download full update package.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="additional_upgrade_failed_title">Failed to update.</string>
+     <string name="add_shortcut_dialog_msg">Добавить %1$s на рабочий стол</string>
+     <string name="add_sns_friend_failed">Не удалось обновить, пожалуйста, проверьте вашу сеть и попробуйте еще раз позже</string>
+     <string name="add_sns_friend_partial_succeeded">Вы добавили %1$d друзей, но при добавлении произошла ошибка связи и %2$d друзей не добавлено, проверьте сетевое подключение и повторите попытку.</string>
+     <string name="add_sns_friend_succeeded">Поздравляем! Вы добавили еще %d друзей!</string>
+     <string name="added_by_me_contacts">приглашений %d</string>
+     <string name="added_me_contacts">%d хотят добавить меня</string>
+     <string name="additional_upgrade_failed">Не удалось обновить, пожалуйста, нажмите, чтобы скачать полный пакет обновления</string>
+     <string name="additional_upgrade_failed_title">Ошибка обновления</string>
      <string name="address_book_my_friends">Мои контакты</string>
      <string name="address_with_distance">%1$dm %2$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="age">" лет"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="agree_contact_licence">Match with phone book contacts</string>
-     <string name="agree_private_licence">"I have read and agreed 
+     <string name="agree_contact_licence">Совпадение с контактами телефонной книги</string>
+     <string name="agree_private_licence">"Я прочитал и соглашаюсь 
 "</string>
      <string name="all_marked_readed">Пометить все как прочитанные</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="all_people_visible">Show to all</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="alread_friend">MiTalk friends</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="already_download_all">Download has completed.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="already_in_blacklist">in block list</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="animemoji_16_01">Hi</string>
+     <string name="all_people_visible">Показать все</string>
+     <string name="alread_friend">Друзья MiTalk</string>
+     <string name="already_download_all">Загрузка завершена</string>
+     <string name="already_in_blacklist">в черном списке</string>
+     <string name="animemoji_16_01">привет</string>
      <string name="animemoji_16_02">плачь</string>
      <string name="animemoji_16_03">смех</string>
-     <string name="animemoji_16_04">昏</string>
+     <string name="animemoji_16_04">обморок</string>
      <string name="animemoji_17_01">приветствие</string>
-     <string name="animemoji_17_02">Смех</string>
+     <string name="animemoji_17_02">смех</string>
      <string name="animemoji_17_03">страх</string>
      <string name="animemoji_17_04">晕啊</string>
      <string name="animemoji_18_01">Поспеть к поезду</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="animemoji_18_02">Fat Choy</string>
      <string name="animemoji_18_03">Подарок</string>
      <string name="animemoji_18_04">Цветочный Свет</string>
@@ -145,26 +127,25 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="animemoji_9_02">我哭</string>
      <string name="animemoji_9_03">ухмылка</string>
      <string name="animemoji_9_04">Верхний</string>
-     <string name="answer_question">回答群主问题</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_add_to_shortcut">Create a shortcut to launcher</string>
+     <string name="answer_question">Ответить на вопросы</string>
+     <string name="app_add_to_shortcut">Создать ярлык на рабочий стол</string>
      <string name="app_anzhuang">Установить</string>
-     <string name="app_building">This plug-in is coming soon!</string>
+     <string name="app_building">Этот плагин уже скоро будет доступен!</string>
      <string name="app_center">Центр плагинов</string>
+     <!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_center_lottery_tips">小米手机、F码还是米点？看看今天你与幸运女神的距离吧。</string>
+     <!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_center_miba_tips">最好玩的语音社区</string>
      <string name="app_center_more">Еще</string>
+     <!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_center_remind_tips">有什么重要的事可以发个提醒定时告诉TA哦</string>
-     <string name="app_confirm_unins">Are you sure to uninstall %s？</string>
-     <string name="app_delete_app">Uninstall this plug-in</string>
-     <string name="app_deleted">Этот плагин был удален. Если вы хотите использовать этот плагин, установите его снова.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_download_error_check_network">Failed to download, please check your network connection.</string>
+     <string name="app_confirm_unins">Вы действительно хотите удалить %s？</string>
+     <string name="app_delete_app">Удалить этот плагин</string>
+     <string name="app_deleted">Этот плагин был удален. Если вы хотите использовать этот плагин, установите его снова</string>
+     <string name="app_download_error_check_network">Не удалось загрузить, пожалуйста, проверьте подключение к сети</string>
      <string name="app_downloading">Загрузка...</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_force_upgrade">Please update your MiTalk version for this feature.</string>
+     <string name="app_force_upgrade">Пожалуйста, обновите версию MiTalk для этой функции</string>
      <string name="app_installing">Установка...</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">MiTalk</string>
      <string name="app_need_sdcard_to_add">SD card is unavailable. You need a valid SD card to install MiWorld plug-ins.</string>
      <string name="app_need_sdcard_to_install">SD card is unavailable. You need a valid SD card to add MiWorld plug-ins.</string>
