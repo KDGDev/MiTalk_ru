@@ -3194,7 +3194,7 @@ Tap arrow to switch between video and audio message mode."</string>
      <string name="publish">Post</string>
      <string name="pull_down_refresh">Потяните для обновления</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pull_down_to_get_history">Pull to view history</string>
+     <string name="pull_down_to_get_history">Потяните, чтобы посмотреть в историю</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="push_message_permission">Send a message to MiTalk app</string>
      <string name="question">问题：</string>
@@ -3341,7 +3341,7 @@ Tap arrow to switch between video and audio message mode."</string>
      <string name="relational_friend_sms_invite">SMS</string>
      <string name="relational_friend_title">%1$s(%2$s)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="release_to_get_history">Release to load history</string>
+     <string name="release_to_get_history">Отпустите, чтобы загрузить историю</string>
      <string name="release_to_refresh">Отпустите для обновления</string>
      <string name="remark_limit">不能超过32个字符</string>
      <string name="remind">Напоминание</string>
