@@ -3164,7 +3164,7 @@ Your current MiTalk version does't support full namecard display."</string>
      <string name="settings_muc_group">Группы</string>
      <string name="settings_no_msg_time">Тихий режим</string>
      <string name="settings_no_msg_time_from_to">%1$s-%2$s</string>
-     <string name="settings_no_msg_time_from_to_next_day">Следующий день</string>
+     <string name="settings_no_msg_time_from_to_next_day">""</string>
      <string name="settings_no_msg_time_from_to_str">Уведомления отключены в период: %1$s-%2$s</string>
      <string name="settings_notification_center_swicth">Уведомления</string>
      <string name="settings_notification_detail_bar">Строка состояния</string>
