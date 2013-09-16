@@ -348,8 +348,8 @@
         <item>Звук и вибрация</item>
      </string-array>
      <string-array name="pref_privacy_fri_verify_choices">
-        <item>Подтверждение не требуется</item>
-        <item>Требуется подтверждение</item>
+        <item>Без подтверждения</item>
+        <item>Требовать подтверждение</item>
         <item>Не добавлять меня</item>
      </string-array>
      <string-array name="pref_privacy_search_type">
@@ -358,7 +358,7 @@
      </string-array>
      <string-array name="pref_privacy_search_type_name">
         <item>По MiID/имени/школе/компании</item>
-        <item>По MiID</item>
+        <item>Только по MiID</item>
      </string-array>
      <string-array name="pref_video_recording_choices">
         <item>Низкое</item>
@@ -424,7 +424,7 @@
         <item>没有雪花，依然浪漫。即使寒冬，倍感温暖。烛光摇曳，华灯璀灿。炉火熊熊，张灯结彩。圣诞树下，礼物如山。钟声敲响，吉祥浪漫。祝福声声，幸福永远！</item>
      </string-array>
      <string-array name="sixin_setting_choices">
-        <item>Выберите для удаления</item>
+        <item>Выберать для удаления</item>
         <item>Удалить все</item>
         <item>Настройки</item>
      </string-array>
