@@ -49,7 +49,7 @@
      <string name="accepted">принять</string>
      <string name="access_error">Не удалось обработать, проверьте подключение к сети и попробуйте еще раз.</string>
      <string name="account">Аккаунт:</string>
-     <string name="accpet_friend_failed">Не удалось отправить запрос, пожалуйста, проверьте сеть и повторите попытку позже</string>
+     <string name="accpet_friend_failed">Ошибка отправки запроса</string>
      <string name="accpet_friend_succeeded">Принять предложение дружбы</string>
      <string name="act_find_city_auto">Найти меня</string>
      <string name="act_find_city_locate_failed">Ошибка определения местоположения</string>
@@ -71,9 +71,9 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="add_friend_hint">Введите сообщение</string>
      <string name="add_friend_in_bubble">Добавить</string>
      <string name="add_friend_ps_lbs">Вы находитесь неподалеку</string>
-     <string name="add_friend_ps_mc">Мы коллеги %s.</string>
-     <string name="add_friend_ps_mf">У нас есть %d общих друзей.</string>
-     <string name="add_friend_ps_ms">Мы одноклассники %s.</string>
+     <string name="add_friend_ps_mc">Вы коллеги с %s</string>
+     <string name="add_friend_ps_mf">Взаимных друзей: %d</string>
+     <string name="add_friend_ps_ms">Мы одноклассники с %s.</string>
      <string name="add_friend_ps_rr">Друзья Renren</string>
      <string name="add_friend_ps_wb">Друзья Sina Weibo</string>
      <string name="add_friend_send_request_successful">Запрос успешно отправлен</string>
@@ -81,8 +81,8 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="add_friend_succeeded">Поздравляем, вы стали друзьями на MiTalk!</string>
      <string name="add_friend_title">Отправить сообщение: %s</string>
      <string name="add_friend_too_many">К сожалению, вы достигли макс. количества друзей.</string>
-     <string name="add_group_description">Изменить</string>
-     <string name="add_miliao_friend">Добавить в друзья</string>
+     <string name="add_group_description">Редактировать информацию</string>
+     <string name="add_miliao_friend">Добавить друзей</string>
      <string name="add_new_company">Добавить компанию</string>
      <string name="add_new_school">Добавить школу</string>
      <string name="add_phone_failed">Не удалось добавить</string>
@@ -132,7 +132,7 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="app_building">Этот плагин уже скоро будет доступен!</string>
      <string name="app_center">Центр плагинов</string>
      <string name="app_center_lottery_tips">小米手机、F码还是米点？看看今天你与幸运女神的距离吧。</string>
-     <string name="app_center_miba_tips">最好玩的语音社区</string>
+     <string name="app_center_miba_tips">Голос сообщества</string>
      <string name="app_center_more">Еще</string>
      <!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_center_remind_tips">有什么重要的事可以发个提醒定时告诉TA哦</string>
@@ -168,8 +168,8 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="app_upgrade_additional_size">[Обновление] Размер: %.2f Мб</string>
      <string name="app_xiezai">Удалить</string>
      <string name="applicationId">222161937813280</string>
-     <string name="apply_join">хочет присоединиться</string>
-     <string name="apply_join_tips">Заявка на вступление в группу</string>
+     <string name="apply_join">Хочу вступить</string>
+     <string name="apply_join_tips">Принять</string>
      <string name="apply_reason">Запрос</string>
      <string name="apply_reason_key">"Отправить сообщение "</string>
      <string name="apply_theme">Применить</string>
@@ -315,6 +315,8 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="blacklist_search_hints">Заблокировано: %d</string>
      <string name="blacklist_unblock_succeed">Блокировка отменена</string>
      <string name="boys">Парни</string>
+     <string name="broad_update">broad:</string>
+     <string name="broad_update_tips">Объявление:</string>
      <string name="btn_cancel">Отмена</string>
      <string name="bubble_subscribe_forward_source">From %s</string>
      <string name="bubble_subscribe_show_original_btn">Показать всех</string>
@@ -389,6 +391,26 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="colleague">коллега</string>
      <string name="college">Школа:</string>
      <string name="commit">Отправить</string>
+     <string name="common_about_message1">Версия: %1$s%2$s</string>
+     <string name="common_about_message2">Авторские права 2013 MiLiao.com</string>
+     <string name="common_about_message3">Все права защищены</string>
+     <string name="common_agree">Принять</string>
+     <string name="common_bind_error">绑定失败</string>
+     <string name="common_bind_phone">Привязка номера телефона</string>
+     <string name="common_bind_phone_tips">Было отправлено SMS с кодом подтверждения телефона</string>
+     <string name="common_change_pwd">Изменить пароль</string>
+     <string name="common_changing_pwd">正在更新密码…</string>
+     <string name="common_changing_pwd_failed">更新密码失败</string>
+     <string name="common_changing_pwd_succeed">更新密码成功</string>
+     <string name="common_choose_area_code">Выберите код страны/региона</string>
+     <string name="common_choose_area_name">Введите название страны или региона</string>
+     <string name="common_click_to_install">点击安装</string>
+     <string name="common_congratulate_on_miid">恭喜你，你的小米帐号：</string>
+     <string name="common_connect_welcome">%1$s! Добро пожаловать %2$s!</string>
+     <string name="common_create_account_failed">Ошибка создания аккаунта</string>
+     <string name="common_create_user_too_many_times">Вы создаете аккаунт слишком часто, повторите позже.</string>
+     <string name="common_creating_account">Создание аккаунта</string>
+     <string name="common_current_password">Текущий пароль</string>
      <string name="common_download_install">Скачать и установить</string>
      <string name="common_download_miliao">Скачать чат</string>
      <string name="common_download_miliao_chat_hint">Вы еще не установили %1$s! Скачайте и найдите много новых друзей!</string>
@@ -399,7 +421,100 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="common_download_miliao_voip_hint">亲，您没有安装米聊，无法和%1$sYY语音聊天哦! 下载米聊，认识更多靠谱朋友!</string>
      <string name="common_download_miliao_wall_hint">До тех пор, пока вы не установите %1$s MiTalk, вы не сможете просматривать трансляции! Скачайте MiTalk сейчас!</string>
      <string name="common_download_progress">Загрузки: %d%%</string>
+     <string name="common_email_not_for_secret">Эл. почта не для секрета</string>
+     <string name="common_email_unbinded">该邮箱未与任何小米帐号号绑定</string>
+     <string name="common_err_input_account_hint">请输入小米帐号/手机号</string>
+     <string name="common_err_input_current_password">Пожалуйста, введите ваш текущий пароль.</string>
+     <string name="common_err_input_new_password">Введите новый пароль</string>
+     <string name="common_err_pls_input_pwd">请输入密码</string>
+     <string name="common_error_current_password">原密码输入错误</string>
+     <string name="common_find_password">找回密码</string>
+     <string name="common_find_pwd_by_email">通过邮箱找回密码</string>
+     <string name="common_find_pwd_by_miid">通过小米帐号找回密码</string>
+     <string name="common_find_pwd_by_phone">通过手机号找回密码</string>
+     <string name="common_find_pwd_by_phone_email">Восстановление пароля по SMS или почте</string>
+     <string name="common_forgot_password">忘记密码?</string>
      <string name="common_friend">Взаимные контакты (%1$d)</string>
+     <string name="common_get_bind_info_failed">Не удалось получить сведения о привязке</string>
+     <string name="common_hint">Советы</string>
+     <string name="common_input_account">Введите аккаунт</string>
+     <string name="common_input_account_hint">请输入小米帐号/手机号</string>
+     <string name="common_input_country_tips">Выберите свою страну или регион</string>
+     <string name="common_input_current_password">Текущий пароль</string>
+     <string name="common_input_new_password">输入新密码</string>
+     <string name="common_input_password">Введите пароль</string>
+     <string name="common_input_phone">请输入常用手机号</string>
+     <string name="common_input_phone_tips">Введите номер телефона, чтобы найти больше друзей.</string>
+     <string name="common_login_connect_sina">Вход в аккаунт Sina</string>
+     <string name="common_login_failed">Ошибка входа</string>
+     <string name="common_logining">Авторизация…</string>
+     <string name="common_mail_colon">Электронная почта %s</string>
+     <string name="common_miid_unbinded">该小米帐号未与任何手机号或邮箱绑定</string>
+     <string name="common_miliao_login">Логин</string>
+     <string name="common_mobile_phone_colon">Телефон: %s</string>
+     <string name="common_name_cannot_be_empty">Введите имя</string>
+     <string name="common_need">Необходимо</string>
+     <string name="common_need_not">Не требуется</string>
+     <string name="common_network_unavailable">Нет подключения к сети</string>
+     <string name="common_phone_binded">Номер телефона был привязан</string>
+     <string name="common_phone_not_for_secret">Номер телефона</string>
+     <string name="common_phone_number_error">Номер телефона уже привязан или не существует. Пожалуйста, введите другой номер.</string>
+     <string name="common_phone_unbinded">Номер телефона не привязан</string>
+     <string name="common_please_input_your_name">请输入您的姓名</string>
+     <string name="common_pls_check_network">Проверьте настройки сети</string>
+     <string name="common_pls_input_pwd">Пожалуйста, введите ваш пароль.</string>
+     <string name="common_pls_input_sina_weibo_account">请输入新浪微博帐号</string>
+     <string name="common_pls_input_valid_email">Введите корректный адрес электронной почты</string>
+     <string name="common_pls_input_valid_miid">Введите корректный MiID</string>
+     <string name="common_pls_input_valid_phone">Пожалуйста, введите корректный номер телефона.</string>
+     <string name="common_pls_input_your_email">Введите эл. почту</string>
+     <string name="common_pls_input_your_miid">Введите ваш MiID</string>
+     <string name="common_pls_input_your_phone">请输入绑定的手机号</string>
+     <string name="common_real_name">Введите ваше настоящее имя</string>
+     <string name="common_register">Регистрация</string>
+     <string name="common_register_account">Регистрация аккаунта</string>
+     <string name="common_register_now">Регистрация</string>
+     <string name="common_register_succeed">注册成功</string>
+     <string name="common_request_failed">Не удалось выполнить запрос. Пожалуйста, попробуйте позже.</string>
+     <string name="common_requesting">Обработка…</string>
+     <string name="common_search">查找</string>
+     <string name="common_search_fri_failed_network">Ошибка соединения</string>
+     <string name="common_search_friend_hint">姓名/小米帐号/学校/公司</string>
+     <string name="common_send_pwd_by_email">На вашу электронную почту было отправлено сообщение с инструкцие по восстановлению пароля</string>
+     <string name="common_send_pwd_by_sms">Информация по восстановлению пароль отправлена вам по SMS</string>
+     <string name="common_send_pwd_to">Пожалуйста, нажмите ниже кнопку, чтобы отправить данные для подтверждения</string>
+     <string name="common_send_sms_tips">На ваш телефон отправлено сообщение с кодом подтверждения</string>
+     <string name="common_send_verification_code_to">Было отправлено SMS с кодом подтверждения %s</string>
+     <string name="common_set_name">Введите имя</string>
+     <string name="common_set_new_pwd">设置新密码：（8–16位字符）</string>
+     <string name="common_set_password">Ввод пароля</string>
+     <string name="common_set_pwd">6–16 символов</string>
+     <string name="common_set_pwd_failed">设置密码失败</string>
+     <string name="common_set_pwd_succeed">Пароль установлен</string>
+     <string name="common_setting_pwd">Установка пароля…</string>
+     <string name="common_setting_pwd_failed">设置密码失败</string>
+     <string name="common_setting_pwd_succeed">Установка пароля завершена</string>
+     <string name="common_show_password">Показать пароль</string>
+     <string name="common_show_pwd">Показать пароль</string>
+     <string name="common_skip">Пропустить</string>
+     <string name="common_unknown_version">неизвестно</string>
+     <string name="common_update_failed">Ошибка обновления</string>
+     <string name="common_updating_to_server">Обновление…</string>
+     <string name="common_verification_code_request_failed">Запросить код не удалось</string>
+     <string name="common_verification_code_requested">已发送验证码请求</string>
+     <string name="common_verification_error_please_re_input">你输入的验证码有误，请重新输入。</string>
+     <string name="common_verification_next_step">Далее</string>
+     <string name="common_verification_pls_enter_4_ver">Введите 4-значный код подтверждения</string>
+     <string name="common_verification_resend">Выслать код подтверждения</string>
+     <string name="common_verification_seconds_to_resend_code">若没收到验证码，30秒后可重新获取验证码</string>
+     <string name="common_verification_succ">Телефон подтвержден</string>
+     <string name="common_verification_verifing">Проверка…</string>
+     <string name="common_verify_later_hint">如果你希望稍候再验证，请回到前一页选择跳过，你可以在资料里再验证手机号。</string>
+     <string name="common_verify_phone">验证手机号</string>
+     <string name="common_welcome_to_miliao">欢迎使用%s</string>
+     <string name="common_wrong_password">Неверное имя пользователя или пароль</string>
+     <string name="common_wrong_password_for_miui">Пароли не совпадают</string>
+     <string name="common_your_miid">Введите MiID</string>
      <string name="commpany">Период</string>
      <string name="commpany_name">Компания</string>
      <string name="comp_corp_info">Заполните инфо о компании</string>
@@ -453,6 +568,7 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="connecting_renren">Подключение к RenRen…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="connecting_to_facebook">Connecting Facebook...</string>
+     <string name="connecting_to_facebook_failed">Не удается подключиться к Facebook</string>
      <string name="connecting_to_sina">Подключение к Sina…</string>
      <string name="connecting_to_sina_failed">Ошибка подключения к аккаунту Sina, проверьте настройки сети.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -597,7 +713,7 @@ You currently have %2$s credit(s)."</string>
      <string name="debug">Отладка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_select_title">Pleas select</string>
-     <string name="del_conversation_history">删除对话记录</string>
+     <string name="del_conversation_history">Удалить</string>
      <string name="delete">Удалить</string>
      <string name="delete_and_unbind">Удалить</string>
      <string name="delete_binded">Отмена</string>
@@ -645,14 +761,17 @@ You currently have %2$s credit(s)."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="do_sth">to...</string>
      <string name="do_sth_hint">What are you up for?</string>
+     <string name="doing_please_wait">Обработка...</string>
      <string name="done">Готово</string>
      <string name="download">Скачать</string>
+     <string name="download_all_avatars">Загрузка фото...</string>
      <string name="download_error">Ошибка, проверьте подключение к сети.</string>
      <string name="download_miba">Скачать</string>
      <string name="download_miba_progress">Скачать %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_original_image_failure">Failed to download, please try again.</string>
      <string name="downloaded_prepare_to_unzip">Установка нового изображения профиля…</string>
+     <string name="downloading_avatars">Загрузка фото…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="downloading_upgrade_in_background">Downloading the newest package...</string>
      <string name="draft">Проект</string>
@@ -752,6 +871,9 @@ You currently have %2$s credit(s)."</string>
      <string name="file_title">Имя:</string>
      <string name="file_width_height">Размер:</string>
      <string name="filter">Фильтр</string>
+     <string name="filter_error">Ошибка эффектов</string>
+     <string name="filter_from">Эффекты от camera360</string>
+     <string name="filter_name">Эффекты</string>
      <string name="find_email_frineds">Аккаунт почты</string>
      <string name="find_fri_bump">Голосовой чат</string>
      <string name="find_fri_search">Поиск</string>
@@ -806,10 +928,13 @@ You currently have %2$s credit(s)."</string>
      <string name="fith_prize">5 подарок</string>
      <string name="fix_avatars">Очистка фото профилей</string>
      <string name="fix_avatars_complete">Готово!</string>
+     <string name="fix_avatars_info">Улучшить фото?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="fixing_avatars">Improving default picture...</string>
      <string name="float_activity_over_limit">Please enter content not longer than %s char.</string>
      <string name="follow_miliao">Следите за MiTalk на Sina Weibo!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="foobar">foobar</string>
      <string name="forget_pwd">Забыли пароль?</string>
      <string name="forgot_password">Забыли пароль?</string>
      <string name="fourth_prize">4 подарок</string>
@@ -842,6 +967,7 @@ You currently have %2$s credit(s)."</string>
      <string name="friend_list_menu_item_profile">Профиль</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="friend_list_menu_item_voip">micall</string>
+     <string name="friend_list_muc">Группы</string>
      <string name="friend_list_no_organization">Нет информации</string>
      <string name="friend_list_no_relation_msg">От скрытого ресурса</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1192,6 +1318,7 @@ You currently have %2$s credit(s)."</string>
      <string name="handshaking">Поиск...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="heard_status">Heard</string>
+     <string name="hello">Привет мир, Эффекты фото!</string>
      <string name="hello_text">Привет!</string>
      <string name="help">Помощь</string>
      <string name="help_specification_YY">Вызов</string>
@@ -1276,6 +1403,7 @@ You currently have %2$s credit(s)."</string>
      <string name="invite_also_import_namecard">Синхронизировать инфо</string>
      <string name="invite_classmate">Пригласить одноклассников</string>
      <string name="invite_colleage">Пригласить коллег</string>
+     <string name="invite_colleague">Пригласить коллег</string>
      <string name="invite_contact">Телефонная книга</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="invite_email_contacts">Email Account Contacts</string>
@@ -1317,6 +1445,7 @@ You currently have %2$s credit(s)."</string>
      <string name="join_muc_need_check">Аудит администратора</string>
      <string name="join_muc_title">Вступить в группу</string>
      <string name="just_talk">Чат</string>
+     <string name="keep_on_import_contacts">Готово! Вы можете отправить приглашения.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kindly_reminder">reminder</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1349,6 +1478,11 @@ You currently have %2$s credit(s)."</string>
      <string name="limit_characters">%s знаков.</string>
      <string name="limit_to">(не более 20 людей)</string>
      <string name="list_is_empty">Список пуст</string>
+     <string name="little_classmate">одноклассник</string>
+     <string name="little_colleague">Коллега</string>
+     <string name="little_friend">Друг</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="little_mitalk">mitalk</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="load_fri_sug_error">Failed, please try again.</string>
      <string name="load_lottery_data_failed">Ошибка загруки</string>
@@ -1379,6 +1513,7 @@ You currently have %2$s credit(s)."</string>
      <string name="location_setting_check">Проверка</string>
      <string name="location_setting_message">Не удается найти из-за проблем или настройки сети, попробовать еще раз?</string>
      <string name="location_setting_title">Уведомления</string>
+     <string name="location_sharing">Отправка местоположения</string>
      <string name="location_tips">Поиск местоположения по GPS</string>
      <string name="logging_off">Увидимся позже!</string>
      <string name="login_btn">Войти</string>
@@ -1606,6 +1741,7 @@ You currently have %2$s credit(s)."</string>
      <string name="more_scan_code">Сканировать QR-код</string>
      <string name="more_uninstalled">Не установлены</string>
      <string name="msg">Сообщение</string>
+     <string name="msg_notification">Уведомления</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
@@ -1621,6 +1757,12 @@ You currently have %2$s credit(s)."</string>
      <string name="muc_add_member_success_only">Успешно!</string>
      <string name="muc_add_member_success_tip0">Добавлено %1$s...%2$s друзей в группу</string>
      <string name="muc_add_member_success_tips">Добавлено %1$s...(%2$s новые участники)</string>
+     <string name="muc_add_people">Пользователь \"%1$s\" добавил участника \"%2$s\" в группу</string>
+     <string name="muc_add_people_tips">Вступить в группу</string>
+     <string name="muc_add_peoples">, и т.д.</string>
+     <string name="muc_and_so_on">* Люди</string>
+     <string name="muc_board">Группа успешно создана! Отправьте приглашение друзьям!</string>
+     <string name="muc_board_tips">День рождения группы!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="muc_cancel_error">Sorry, you have been removed or this group no longer exists.</string>
      <string name="muc_cancel_verify">Отмена</string>
@@ -1663,6 +1805,8 @@ You currently have %2$s credit(s)."</string>
      <string name="muc_err_not_exist_local">Sorry, no such group found.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="muc_err_not_exist_server">Sorry, we were unable to find any info. about this group.</string>
+     <string name="muc_exit_people">Участник %1$s покинул группу</string>
+     <string name="muc_exit_people_tips">Покинуть группу</string>
      <string name="muc_filter_view_title">Фильтр групп</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="muc_find_company_mucs">Find groups from workplace</string>
@@ -1710,6 +1854,8 @@ You currently have %2$s credit(s)."</string>
 	%d: 0 must: 0 -->
      <!-- Original string: %1$s%2$s成为群成员 -->
      <string name="muc_invite_tips">Способы приглашений</string>
+     <string name="muc_join_people">Пользователь \"%1$s\" вступил в группу</string>
+     <string name="muc_join_people_tips">Вступить в группу</string>
      <string name="muc_join_please_answer">Введите ответ</string>
      <string name="muc_label_list_header">Похожих: %d</string>
      <string name="muc_list_create">Создать</string>
@@ -1801,6 +1947,8 @@ You currently have %2$s credit(s)."</string>
      <!-- Original string: 从本群中删除 %1$s 等%2$s人 -->
      <string name="muc_remove_member_confirm">Удалить участника \"%s\" из группы?</string>
      <string name="muc_remove_one_member_confirm">Удалить из группы участника \"%1$s\"?</string>
+     <string name="muc_remove_people">Пользователь \"%1$s\" удалил участника \"%2$s\" из группы</string>
+     <string name="muc_remove_people_tips">Удалить из группы</string>
      <string name="muc_report_additional">Пожалуйста, опишите проблему в деталях.</string>
      <string name="muc_report_fake_data">Фейк</string>
      <string name="muc_report_other">Другое</string>
@@ -1927,7 +2075,7 @@ Please following the instructions from the email to complete verification proces
      <string name="namecard_age_template">Возраст: %s</string>
      <string name="namecard_begin_chat">Поболтать</string>
      <string name="namecard_bio">Информация</string>
-     <string name="namecard_birthday">生日：</string>
+     <string name="namecard_birthday">День рождения</string>
      <string name="namecard_bottom_btn_add">Добавить</string>
      <string name="namecard_bottom_btn_chat">Чат</string>
      <string name="namecard_bottom_btn_confirm">Подтвердить</string>
@@ -2028,12 +2176,14 @@ Please following the instructions from the email to complete verification proces
      <string name="nearby_clear_failed">Ошибка выключения. Пожалуйста, попробуйте позже.</string>
      <string name="nearby_clear_succeeded">Выключено!</string>
      <string name="nearby_distance_format_km">%.1fкм</string>
+     <string name="nearby_distance_format_meter">%dм</string>
      <string name="nearby_empty_desc">Пользователей не найдено</string>
      <string name="nearby_event">Локальные события</string>
      <string name="nearby_follow">Следить</string>
      <string name="nearby_follows">Подписчиков: %d</string>
      <string name="nearby_grid_mode">Сетка</string>
      <string name="nearby_like_alert">Вам понравился этот пользователь. Вы можете ставить по 10 \"Лайков\" в день.</string>
+     <string name="nearby_like_desc">Теперь вы можете ставить \"Лайки\"!</string>
      <string name="nearby_like_updating">正在悄悄感兴趣中</string>
      <string name="nearby_list_mode">Список</string>
      <string name="nearby_loading_more">Загрузка</string>
@@ -2096,6 +2246,7 @@ Please following the instructions from the email to complete verification proces
      <string name="new_message_aggregation_when_exceed_ten_notification_content">Получены сообщения более чем от 10 контактов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="new_message_notification">You have got new notification, you can pull to refresh.</string>
+     <string name="new_namecard__muc">Вступить в группу</string>
      <string name="new_namecard_add_birthday">Добавить день рождения</string>
      <string name="new_namecard_add_comments">Изменить имя</string>
      <string name="new_namecard_add_company">Добавить компанию</string>
@@ -2259,6 +2410,7 @@ Tap arrow to switch between video and audio message mode."</string>
  Click here to log in again>>"</string>
      <string name="ok">ОК</string>
      <string name="ok_button">Ок</string>
+     <string name="ok_str">ОК</string>
      <string name="online_search">Поиск</string>
      <string name="online_search_friend">Поиск “%s”</string>
      <string name="online_search_group">Поиск групп “%s”</string>
@@ -2271,6 +2423,7 @@ Tap arrow to switch between video and audio message mode."</string>
      <string name="open_camera_exception_dialog_content">Ошибка камера. Попробуйте перезагрузить телефон.</string>
      <string name="open_camera_exception_dialog_title">Ошибка камеры</string>
      <string name="open_image_failed">Не удалось увеличить</string>
+     <string name="open_keyboard_to_compose_message">Написать сообщение</string>
      <string name="open_muc">Открыть группу</string>
      <string name="open_sb_sixin">Прочитано</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -2576,6 +2729,8 @@ Tap arrow to switch between video and audio message mode."</string>
      <string name="privacy_notice">Пусто</string>
      <string name="privacy_user_tips">Сетевые настройки будут обновлены в течение 24 часов</string>
      <string name="private_group">Приватная группа</string>
+     <string name="private_licence">Условия использования и политика конфиденциальности</string>
+     <string name="processing_image">Нет фото</string>
      <string name="promote_know_me">Добавить в друзья %1$s (MiID：%2$s)?</string>
      <string name="public_group">Публичная группа</string>
      <string name="publish">Отправить</string>
@@ -2595,6 +2750,7 @@ Tap arrow to switch between video and audio message mode."</string>
      <string name="read_buddy_permission">Обзор...</string>
      <string name="read_status">Прочитано</string>
      <string name="real_name">Реальное имя:</string>
+     <string name="reason">Причина</string>
      <string name="reason_of_verify_email">Why it is required to verify company email?</string>
      <string name="rec_vip_last_msg_title">Обновлено---</string>
      <string name="received">Доставлено</string>
@@ -2829,6 +2985,7 @@ Tap arrow to switch between video and audio message mode."</string>
      <string name="retrieving_contacts_failed">Failed, please check account info and password.</string>
      <string name="retrieving_profile">Загрузка...</string>
      <string name="retry">Повтор</string>
+     <string name="return_str">Отмена</string>
      <string name="robot_name_114">Поддержка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="robot_name_200">Sina Weibo postboard</string>
@@ -2836,6 +2993,7 @@ Tap arrow to switch between video and audio message mode."</string>
      <string name="run_diagnose">Network Diagnosis</string>
      <string name="save_and_send_email">Подтвердить по эл. почте</string>
      <string name="save_and_send_sms">Подтвердить по SMS</string>
+     <string name="save_error">Ошибка сохранения</string>
      <string name="save_image">Сохр.</string>
      <string name="save_image_failed">Ошибка сохранения. Пожалуйста, убедитесь, что SD-карта не заполнена.</string>
      <string name="save_image_succeeded">Изображения сохранены в вашу галерею</string>
@@ -2844,6 +3002,7 @@ Tap arrow to switch between video and audio message mode."</string>
      <string name="say_hi">Отправить приветствие</string>
      <string name="say_hi_sending">Отправка…</string>
      <string name="say_hi_sent">Отправлено!</string>
+     <string name="say_sth">Напишите что нибудь</string>
      <string name="sb_create_topic">%1$s created topic %2$s</string>
      <string name="sb_create_topic_at_sp">"%1$s created %3$s 
  at %2$s"</string>
@@ -2867,6 +3026,7 @@ Tap arrow to switch between video and audio message mode."</string>
 	%d: 1 must: 1 -->
      <!-- Original string: 成功清理%1$d个文件，释放%2$s空间。 -->
      <string name="sdcard_clean_result">Очищено файлов: %1$d. Всего: %2$s с %3$s</string>
+     <string name="sdcard_is_absent">SD-карта отсутствует</string>
      <string name="sdcard_is_full">SD-карта заполнена</string>
      <string name="sdcard_unavailable">SD-карта отсутсвует.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -2884,6 +3044,7 @@ Tap arrow to switch between video and audio message mode."</string>
      <string name="search_fri_failed_short_keyword">Too short, please try again.</string>
      <string name="search_friend">Поиск</string>
      <string name="search_friend_hint">Поиск друзей</string>
+     <string name="search_friend_hit_one">Найдено пользователей: %d</string>
      <string name="search_friend_hits">Найдено пользователей: %d</string>
      <string name="search_friend_subtitle">Search by MiID/name/school/company</string>
      <string name="search_muc_header">История поиска</string>
@@ -2908,6 +3069,7 @@ Tap arrow to switch between video and audio message mode."</string>
      <string name="select_sex">Выберите пол</string>
      <string name="select_share_title">Отправить</string>
      <string name="select_too_many">You can only send at most 20 friend requests at once, but youve selected %d.</string>
+     <string name="select_useful_image">Выберите фото</string>
      <string name="self_add_error">Вы не можете добавить себя как друга</string>
      <string name="self_visible">Скрыть</string>
      <string name="send">Отправить</string>
@@ -2981,6 +3143,9 @@ Your current MiTalk version does't support full namecard display."</string>
      <string name="set_ph_secret">Установить номер телефона по умолчанию</string>
      <string name="set_pwd">6-16 символов</string>
      <string name="setting_language">Изменение языка…</string>
+     <string name="setting_pref_category_account">Настройки аккаунта</string>
+     <string name="setting_pref_category_msg">Настройки сообщений</string>
+     <string name="setting_pref_category_other">Другие настройки</string>
      <string name="setting_pwd">Настройки пароля…</string>
      <string name="setting_pwd_failed">Ошибка обновления пароля</string>
      <string name="setting_pwd_succeed">Пароль обновлен!</string>
@@ -3201,6 +3366,7 @@ Your current MiTalk version does't support full namecard display."</string>
      <string name="sns_bind_failed_server_error">Ошибка сервера, попробуёте позднее.</string>
      <string name="sns_bind_settings_title">Настройки SNS</string>
      <string name="sns_bind_successful">Вы успешно вошли!</string>
+     <string name="sns_binded">Вы авторизированы</string>
      <string name="sns_binding">Вход в систему…</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
@@ -3215,8 +3381,12 @@ Your current MiTalk version does't support full namecard display."</string>
      <string name="sns_do_invite">Пригласить</string>
      <string name="sns_error_networking">Не удается подключиться к интернету, повторите попытку позже.</string>
      <string name="sns_error_server_error">Нет соединения с интернетом, попробуйте позже.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sns_facebook">Facebook</string>
      <string name="sns_foobar">Фубар</string>
      <string name="sns_friends_using_mitalk">Друзья MiTalk</string>
+     <string name="sns_import_kaixin">Синхронизация с Kaixin</string>
+     <string name="sns_import_renren">Синхронизация с RenRen</string>
      <string name="sns_invite_confirm">Would you like to send a private message to invite?</string>
      <string name="sns_invite_friends">Пригласить</string>
      <!-- The count of MNPS does not match! Now: 0 must: 2
@@ -3229,6 +3399,8 @@ Your current MiTalk version does't support full namecard display."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sns_kaixin">Kaixin</string>
      <string name="sns_longclick_to_unbind">Нажмите и удерживайте для отмены</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sns_msn">MSN</string>
      <string name="sns_my_info_visible_to_others_detail">Позволить другим видеть мой профиль SNS</string>
      <string name="sns_my_info_visible_to_others_title">Отображать в профиле</string>
      <string name="sns_publish_weibo_failed">Ошибка отправки</string>
@@ -3239,6 +3411,8 @@ Your current MiTalk version does't support full namecard display."</string>
      <string name="sns_settings_title">%s Настройки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sns_sina_weibo">Sina Weibo</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sns_twitter">Twitter</string>
      <string name="sns_unbind">Выйти</string>
      <string name="sns_unbind_failed">Ошибка выхода</string>
      <string name="sns_unbind_failed_network_error">Не удалось войти, пожалуйста, проверьте подключение к сети.</string>
@@ -3252,6 +3426,7 @@ Your current MiTalk version does't support full namecard display."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sns_weibo_service_unavailable">Sina Weibo service is unavailable.</string>
      <string name="social_account">Аккаунт SNS</string>
+     <string name="source_pic">Исходный размер</string>
      <string name="spread_access_imme">Присоединиться</string>
      <string name="spread_access_no">Отменить участие</string>
      <string name="spread_complete_n">Подтвердить (%s)</string>
@@ -3285,10 +3460,13 @@ Your current MiTalk version does't support full namecard display."</string>
      <string name="submit_new_school_title">Добавить школу</string>
      <string name="subscribe_117">"【热门播报】
 假如哪一天发现了外星人，你会第一时间从这里得到资讯"</string>
+     <string name="subscribe_117_nickname">Рекомендуемые вещания</string>
      <string name="subscribe_118">"【星座运势】
 运势这玩意，至于你信不信，我反正信了"</string>
+     <string name="subscribe_118_nickname">Гороскоп</string>
      <string name="subscribe_119">"【每天有笑点】
 TA们说，以后拍照不用念“茄子”，掏出手机看我一眼笑容更灿烂：）"</string>
+     <string name="subscribe_119_nickname">Смеяться каждый день</string>
      <string name="subscribe_accounts">Подписки</string>
      <string name="subscribe_already_subs">Вы уже отправили запрос, дождитесь ответа.</string>
      <string name="subscribe_already_subs_short">Вы уже подписались</string>
@@ -3548,6 +3726,7 @@ TA们说，以后拍照不用念“茄子”，掏出手机看我一眼笑容更
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="v_authentication_kind_vip_content">A status that identifies public figures.</string>
      <string name="v_authentication_title">Состояние пользователей V</string>
+     <string name="vedio">Видео</string>
      <string name="verification_code_request_failed">Не удалось запросить код подтверждения</string>
      <string name="verification_code_requested">Код подтверждения отправлен!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -3604,6 +3783,7 @@ Note: verification code expires after 24hrs from the time it gets delivered."</s
      <string name="video_nowifi_hint">Your video quality might get effected by wireless network provided by your data plan carrier.</string>
      <string name="video_open_camera_failed">Ошибка запуска камеры</string>
      <string name="video_recording_preparing">Подготовка...</string>
+     <string name="video_remote_device_not_support">Устройство этого пользователя не поддерживает видеовызовы</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="video_sms_body">Received a video message. Your current MiTalk version cannot display this type of message.</string>
      <string name="video_switch_camera">Переключить</string>
@@ -3704,8 +3884,10 @@ Note: verification code expires after 24hrs from the time it gets delivered."</s
      <string name="wall_float_input_forward_original_type_image">[изображение]</string>
      <string name="wall_float_input_forward_original_type_speech">[голос]</string>
      <string name="wall_footer_invite">Пригласить друзей!</string>
+     <string name="wall_footer_no_message">Нет записей</string>
      <string name="wall_footer_no_message_1">нет новых записей</string>
      <string name="wall_footer_no_message_2">потяните вниз для обновления</string>
+     <string name="wall_forward_count_template">Далее</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wall_forward_failed">Failed to post, it has been saved as draft.</string>
      <string name="wall_forward_succeeded">Posted!</string>
@@ -3766,9 +3948,10 @@ Note: verification code expires after 24hrs from the time it gets delivered."</s
      <string name="want_to_find_sb_to_do_sth">wants to %2$s with %1$s</string>
      <string name="ward_list_item_title">Просмотр сведений</string>
      <string name="weibo_audio">Голосовое сообщение</string>
+     <string name="weibo_audio_success">Ваше голосовое сообщение успешно отправлено на Sina Weibo!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="weibo_gif">MiTalk GIF</string>
-     <string name="weibo_image_success">Successfully posted your photos on Sina Weibo!</string>
+     <string name="weibo_image_success">Фото успешно загружено в Sina Weibo!</string>
      <string name="weibo_picture">\#Pictures sent via MiTalk#　</string>
      <string name="weibo_register">Войти в Sina Weibo</string>
      <string name="weibo_register_hints">"发送短信注册新浪微博，费用0.1元，由运营商收取。
@@ -3785,6 +3968,7 @@ Note: verification code expires after 24hrs from the time it gets delivered."</s
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="weibo_secretary_introduce">We will post all things here on your Sina Weibo for you.</string>
      <string name="weibo_service_unavailable">Sina Weibo helper is currently under maintenance. Unable to post your voice message, please try again later: )</string>
+     <string name="weibo_text_success">Успешно отправлено в Sina Weibo!</string>
      <string name="weibo_unbinded">Sign up for a Weibo account to share your MiTalk moments with others on Weibo!</string>
      <string name="weibo_unbinded_key">Join Weibo now!</string>
      <string name="weibo_yuyin">\#Голос MiTalk#　</string>
@@ -3808,6 +3992,7 @@ Now, sit back and enjoy a life having MiTalk!"</string>
      <string name="who_are_you">Кто это?</string>
      <string name="whose_group_message">(Сообщение группы) %1$s: %2$s</string>
      <string name="whose_message">Новости</string>
+     <string name="will">Будет</string>
      <string name="wip_feature">Мы работаем над этим :)</string>
      <string name="within_1_hour">%d мин. назад</string>
      <string name="within_s_secs">30 секунд назад</string>
