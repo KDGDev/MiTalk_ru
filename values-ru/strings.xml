@@ -110,12 +110,8 @@ Please remember that you can only log in and restore password AFTER you confirm 
      <string name="address_with_distance">%1$dm %2$s</string>
      <string name="age">" лет"</string>
      <string name="agree_contact_licence">Совпадение с контактами телефонной книги</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 0
-	%s: 1 must: 0
-	%d: 1 must: 0 -->
-     <!-- Original string: 已阅读并同意<a href="http://www.miliao.com/yinsi.php">使用条款及隐私协议</a> -->
-     <string name="agree_private_licence">""Я прочитал и соглашаюсь 
-     <string name="address_with_distance">%1$dм %2$s"</string>
+     <string name="agree_private_licence">"Я прочитал и соглашаюсь 
+"</string>
      <string name="all_marked_readed">Пометить все как прочитанные</string>
      <string name="all_people_visible">Показать всем</string>
      <string name="alread_friend">Друзья MiTalk</string>
