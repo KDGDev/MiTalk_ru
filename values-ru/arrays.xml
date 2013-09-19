@@ -92,6 +92,7 @@
      </string-array>
      <string-array name="contacts_batch">
         <item>Групповое приглашение</item>
+        <item>Групповое приглашение</item>
      </string-array>
      <string-array name="copy_to_clipboard">
         <item>Копировать</item>
